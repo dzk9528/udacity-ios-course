@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "d0f518e29ca6a01ae58847578f3ee4aa"
+build_time: [1530576518, 319107000]
+inputs:
+  "/Users/zhangdi/Documents/app development/PitchPerfect/PitchPerfect/RecordSoundViewController.swift": [1530557735, 0]
+  "/Users/zhangdi/Documents/app development/PitchPerfect/PitchPerfect/PlaySoundsViewController.swift": [1530576518, 0]
+  "/Users/zhangdi/Documents/app development/PitchPerfect/PitchPerfect/AppDelegate.swift": [1528873820, 0]
+  "/Users/zhangdi/Documents/app development/PitchPerfect/PitchPerfect/playsoundsviewcontroller-audio.swift": [1530576131, 0]
